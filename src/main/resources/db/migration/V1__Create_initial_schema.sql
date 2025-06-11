@@ -1,0 +1,2 @@
+-- This is the first migration for the TechCollab API.
+-- Future schema changes will be added here.
