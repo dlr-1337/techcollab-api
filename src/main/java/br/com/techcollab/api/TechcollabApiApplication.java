@@ -6,10 +6,10 @@ import org.springframework.cache.annotation.EnableCaching;
 
 @SpringBootApplication
 @EnableCaching // It's good practice to enable caching if spring-boot-starter-cache is included
-public class ApiApplication {
+public class TechcollabApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApiApplication.class, args);
+        SpringApplication.run(TechcollabApiApplication.class, args);
     }
 
 }
